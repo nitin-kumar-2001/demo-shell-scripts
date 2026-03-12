@@ -1,1 +1,6 @@
 abba nhi manenge
+
+
+echo "Hello Dosto"
+
+we are learning to git
